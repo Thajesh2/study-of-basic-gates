@@ -65,8 +65,8 @@ Y= A⊕B
 **PROGRAM**:
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
- Developed by:A.Lahari
- RegisterNumber: 212223230111
+ Developed by:Thajesh k
+ RegisterNumber: 212223230229
  ```
 // NAND,NOR and XNOR gates
 module egx3(a,b,c,d,e,x,y,z);
